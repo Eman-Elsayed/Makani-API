@@ -1,0 +1,77 @@
+{
+    "id": "a1",
+    "email": "osman",
+    "password": "123",
+    "name": "ahmed",
+    "openingDays": "saturday",
+    "openingTime": "6",
+    "closingTime": "9",
+    "overview": "coworking space",
+    "rating": 4,
+    "website": "www.space.com",
+    "facebook": "facebook",
+    "spacePicturesCollection": [
+        {
+            "id": 1,
+            "picture": "gfhjkl"
+        },
+        {
+            "id": 2,
+            "picture": "asghj"
+        }
+    ],
+    "spaceLocationsCollection": [
+        {
+            "id": 1,
+            "country": "egypt",
+            "government": "cairo",
+            "address": "helioplis",
+            "longitude": 123,
+            "latitude": 23,
+            "atitude": 345
+        },
+        {
+            "id": 2,
+            "country": "egypt",
+            "government": "isamilia",
+            "address": "dfdf",
+            "longitude": 65,
+            "latitude": 7,
+            "atitude": 45
+        }
+    ],
+    "facilities": {
+        "id": "1",
+        "projector": true,
+        "laptops": true,
+        "airConditioner": true,
+        "internet": false,
+        "internetSpeed": 1.8,
+        "foodDrinks": true,
+        "otherFacilities": "oooo"
+    },
+    "spaceContactsCollection": [
+        {
+            "id": 1,
+            "telephone": "1231123"
+        },
+        {
+            "id": 2,
+            "telephone": "4545654"
+        }
+    ],
+    "roomCollection": [
+        {
+            "id": 1,
+            "name": "room1",
+            "capacity": "45",
+            "cost": 90
+        },
+        {
+            "id": 2,
+            "name": "room2",
+            "capacity": "56",
+            "cost": 435
+        }
+    ]
+}
